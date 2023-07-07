@@ -1,0 +1,270 @@
+
+TESTE PESQUISA
+
+Elemento [-500000] Linked list: true
+Execucao demorou 119490100 nano segundos.
+
+Elemento [-500000] Linked list ordenada: true
+Execucao demorou 612600 nano segundos.
+
+Elemento [-500000] Binary Tree: true
+Execucao demorou 415300 nano segundos.
+
+Elemento [-500000] Balanced Binary Tree: true
+Execucao demorou 480400 nano segundos.
+
+Elemento [-400000] Linked list: true
+Execucao demorou 1617400 nano segundos.
+
+Elemento [-400000] Linked list ordenada: true
+Execucao demorou 701000 nano segundos.
+
+Elemento [-400000] Binary Tree: true
+Execucao demorou 193300 nano segundos.
+
+Elemento [-400000] Balanced Binary Tree: true
+Execucao demorou 200000 nano segundos.
+
+Elemento [-300000] Linked list: true
+Execucao demorou 1616900 nano segundos.
+
+Elemento [-300000] Linked list ordenada: true
+Execucao demorou 829400 nano segundos.
+
+Elemento [-300000] Binary Tree: true
+Execucao demorou 372000 nano segundos.
+
+Elemento [-300000] Balanced Binary Tree: true
+Execucao demorou 289300 nano segundos.
+
+Elemento [-200000] Linked list: true
+Execucao demorou 2020600 nano segundos.
+
+Elemento [-200000] Linked list ordenada: true
+Execucao demorou 1155000 nano segundos.
+
+Elemento [-200000] Binary Tree: true
+Execucao demorou 278000 nano segundos.
+
+Elemento [-200000] Balanced Binary Tree: true
+Execucao demorou 514300 nano segundos.
+
+Elemento [-100000] Linked list: true
+Execucao demorou 1839000 nano segundos.
+
+Elemento [-100000] Linked list ordenada: true
+Execucao demorou 4865700 nano segundos.
+
+Elemento [-100000] Binary Tree: true
+Execucao demorou 195300 nano segundos.
+
+Elemento [-100000] Balanced Binary Tree: true
+Execucao demorou 186200 nano segundos.
+
+Elemento [0] Linked list: true
+Execucao demorou 10641700 nano segundos.
+
+Elemento [0] Linked list ordenada: true
+Execucao demorou 2410200 nano segundos.
+
+Elemento [0] Binary Tree: true
+Execucao demorou 242900 nano segundos.
+
+Elemento [0] Balanced Binary Tree: true
+Execucao demorou 238300 nano segundos.
+
+Elemento [100000] Linked list: true
+Execucao demorou 9841400 nano segundos.
+
+Elemento [100000] Linked list ordenada: true
+Execucao demorou 2588900 nano segundos.
+
+Elemento [100000] Binary Tree: true
+Execucao demorou 246800 nano segundos.
+
+Elemento [100000] Balanced Binary Tree: true
+Execucao demorou 251600 nano segundos.
+
+Elemento [200000] Linked list: true
+Execucao demorou 5420500 nano segundos.
+
+Elemento [200000] Linked list ordenada: true
+Execucao demorou 2451100 nano segundos.
+
+Elemento [200000] Binary Tree: true
+Execucao demorou 215400 nano segundos.
+
+Elemento [200000] Balanced Binary Tree: true
+Execucao demorou 210200 nano segundos.
+
+Elemento [300000] Linked list: true
+Execucao demorou 1862100 nano segundos.
+
+Elemento [300000] Linked list ordenada: true
+Execucao demorou 3114800 nano segundos.
+
+Elemento [300000] Binary Tree: true
+Execucao demorou 242300 nano segundos.
+
+Elemento [300000] Balanced Binary Tree: true
+Execucao demorou 236300 nano segundos.
+
+Elemento [400000] Linked list: true
+Execucao demorou 1751300 nano segundos.
+
+Elemento [400000] Linked list ordenada: true
+Execucao demorou 2904000 nano segundos.
+
+Elemento [400000] Binary Tree: true
+Execucao demorou 211700 nano segundos.
+
+Elemento [400000] Balanced Binary Tree: true
+Execucao demorou 213000 nano segundos.
+
+Elemento [500000] Linked list: true
+Execucao demorou 5131000 nano segundos.
+
+Elemento [500000] Linked list ordenada: true
+Execucao demorou 4381100 nano segundos.
+
+Elemento [500000] Binary Tree: true
+Execucao demorou 253600 nano segundos.
+
+Elemento [500000] Balanced Binary Tree: true
+Execucao demorou 234600 nano segundos.
+
+
+TESTE ELIMINACAO
+
+Elemento [-500000] Linked list: true
+Execucao demorou 4998500 nano segundos.
+
+Elemento [-500000] Linked list ordenada: true
+Execucao demorou 323600 nano segundos.
+
+Elemento [-500000] Binary Tree: true
+Execucao demorou 2789400 nano segundos.
+
+Elemento [-500000] Balanced Binary Tree: true
+Execucao demorou 300600 nano segundos.
+
+Elemento [-400000] Linked list: true
+Execucao demorou 877200 nano segundos.
+
+Elemento [-400000] Linked list ordenada: true
+Execucao demorou 861400 nano segundos.
+
+Elemento [-400000] Binary Tree: true
+Execucao demorou 270500 nano segundos.
+
+Elemento [-400000] Balanced Binary Tree: true
+Execucao demorou 277700 nano segundos.
+
+Elemento [-300000] Linked list: true
+Execucao demorou 1721900 nano segundos.
+
+Elemento [-300000] Linked list ordenada: true
+Execucao demorou 849800 nano segundos.
+
+Elemento [-300000] Binary Tree: true
+Execucao demorou 229300 nano segundos.
+
+Elemento [-300000] Balanced Binary Tree: true
+Execucao demorou 216300 nano segundos.
+
+Elemento [-200000] Linked list: true
+Execucao demorou 1506100 nano segundos.
+
+Elemento [-200000] Linked list ordenada: true
+Execucao demorou 1126800 nano segundos.
+
+Elemento [-200000] Binary Tree: true
+Execucao demorou 239400 nano segundos.
+
+Elemento [-200000] Balanced Binary Tree: true
+Execucao demorou 219500 nano segundos.
+
+Elemento [-100000] Linked list: true
+Execucao demorou 1984700 nano segundos.
+
+Elemento [-100000] Linked list ordenada: true
+Execucao demorou 1293700 nano segundos.
+
+Elemento [-100000] Binary Tree: true
+Execucao demorou 258500 nano segundos.
+
+Elemento [-100000] Balanced Binary Tree: true
+Execucao demorou 239800 nano segundos.
+
+Elemento [0] Linked list: true
+Execucao demorou 2303200 nano segundos.
+
+Elemento [0] Linked list ordenada: true
+Execucao demorou 1790400 nano segundos.
+
+Elemento [0] Binary Tree: true
+Execucao demorou 240900 nano segundos.
+
+Elemento [0] Balanced Binary Tree: true
+Execucao demorou 223400 nano segundos.
+
+Elemento [100000] Linked list: true
+Execucao demorou 2335800 nano segundos.
+
+Elemento [100000] Linked list ordenada: true
+Execucao demorou 1799100 nano segundos.
+
+Elemento [100000] Binary Tree: true
+Execucao demorou 207600 nano segundos.
+
+Elemento [100000] Balanced Binary Tree: true
+Execucao demorou 199700 nano segundos.
+
+Elemento [200000] Linked list: true
+Execucao demorou 2584000 nano segundos.
+
+Elemento [200000] Linked list ordenada: true
+Execucao demorou 2111700 nano segundos.
+
+Elemento [200000] Binary Tree: true
+Execucao demorou 238700 nano segundos.
+
+Elemento [200000] Balanced Binary Tree: true
+Execucao demorou 189700 nano segundos.
+
+Elemento [300000] Linked list: true
+Execucao demorou 2374800 nano segundos.
+
+Elemento [300000] Linked list ordenada: true
+Execucao demorou 2543200 nano segundos.
+
+Elemento [300000] Binary Tree: true
+Execucao demorou 246900 nano segundos.
+
+Elemento [300000] Balanced Binary Tree: true
+Execucao demorou 224200 nano segundos.
+
+Elemento [400000] Linked list: true
+Execucao demorou 1654300 nano segundos.
+
+Elemento [400000] Linked list ordenada: true
+Execucao demorou 2807500 nano segundos.
+
+Elemento [400000] Binary Tree: true
+Execucao demorou 236400 nano segundos.
+
+Elemento [400000] Balanced Binary Tree: true
+Execucao demorou 175600 nano segundos.
+
+Elemento [500000] Linked list: true
+Execucao demorou 2587000 nano segundos.
+
+Elemento [500000] Linked list ordenada: true
+Execucao demorou 3494600 nano segundos.
+
+Elemento [500000] Binary Tree: true
+Execucao demorou 205400 nano segundos.
+
+Elemento [500000] Balanced Binary Tree: true
+Execucao demorou 173700 nano segundos.
+
